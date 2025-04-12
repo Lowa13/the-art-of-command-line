@@ -50,6 +50,7 @@ They have kindly agreed to review and help update future contributions for the t
 * [Thomas Sungjin Kang (ujuc)](https://github.com/ujuc) — [6+](https://github.com/jlevy/the-art-of-command-line/commits?author=ujuc)/[0+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3Aujuc) — _translator (ko)_
 * [Valeria de Paiva (vcvpaiva)](https://github.com/vcvpaiva) — [2+](https://github.com/jlevy/the-art-of-command-line/commits?author=vcvpaiva)/[0+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3Avcvpaiva) — _translator (pt)_
 * [Xu Chunyang (xuchunyang)](https://github.com/xuchunyang) — [13+](https://github.com/jlevy/the-art-of-command-line/commits?author=xuchunyang)/[7+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3Axuchunyang) — _translator (zh)_
+* [Loïs Chavin (Lowa13)](https://github.com/Lowa13)
 
 *Contributors*
 
