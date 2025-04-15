@@ -19,6 +19,7 @@ Si vous aimer écrire, n'êtes pas loin d'être un expert du sujet et êtes disp
 - [Autres ressources](#autres-ressources)
 - [Avertissement](#avertissement)
 
+Test batard
 
 ![curl -s 'https://raw.githubusercontent.com/jlevy/the-art-of-command-line/master/README.md' | egrep -o '`\w+`' | tr -d '`' | cowsay -W50](cowsay.png)
 
